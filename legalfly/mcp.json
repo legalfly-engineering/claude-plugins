@@ -2,7 +2,7 @@
   "mcpServers": {
     "legalfly": {
       "type": "http",
-      "url": "localhost:3000/mcp"
+      "url": "http://localhost:3000/mcp"
     }
   }
 }
