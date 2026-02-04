@@ -1,0 +1,13 @@
+{
+  "name": "legalfly-plugins",
+  "owner": {
+    "name": "LEGALFLY"
+  },
+  "plugins": [
+    {
+      "name": "legalfly",
+      "source": "./legalfly",
+      "description": "Ask legal questions powered by LEGALFLY Discovery AI"
+    }
+  ]
+}

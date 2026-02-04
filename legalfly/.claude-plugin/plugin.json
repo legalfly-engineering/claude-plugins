@@ -1,0 +1,8 @@
+{
+  "name": "legalfly",
+  "description": "Ask legal questions powered by LEGALFLY Discovery AI",
+  "version": "1.0.0",
+  "author": {
+    "name": "LEGALFLY"
+  }
+}

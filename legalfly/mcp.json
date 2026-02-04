@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "legalfly": {
+      "type": "http",
+      "url": "api.legalfly.com/mcp"
+    }
+  }
+}
